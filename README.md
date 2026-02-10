@@ -50,3 +50,11 @@ Each problem is organized into its own folder containing:
 │   ├── solution.sql      # SQL Solution (Window Functions)
 │   └── README.md
 └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0196-delete-duplicate-emails) |
+<!---LeetCode Topics End-->
