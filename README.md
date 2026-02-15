@@ -62,4 +62,5 @@ Each problem is organized into its own folder containing:
 | [0584-find-customer-referee](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
